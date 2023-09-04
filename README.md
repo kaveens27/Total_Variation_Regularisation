@@ -6,4 +6,4 @@ Two main approaches are implemented:
 
 Chambolle-Pock Algorithm: An efficient numerical scheme for solving the TV regularisation problem. Finds optimal regularisation parameter alpha given the ground truth and noisy images are provided.
 
-Combined TV-NN Unrolled Algorithm: A CNN-based model integrating TV regularisation with learned parameters. Estimates alpha values for denoising unseen noisy images after training on clean-noisy pairs.
+Combined TV-NN Unrolled Algorithm: A CNN-based model integrating TV regularisation with neural networks. Estimates alpha values for denoising unseen noisy images after training on clean-noisy pairs.
